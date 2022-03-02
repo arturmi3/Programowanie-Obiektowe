@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Artur\\source\\repos\\ProgramowanieObiektowe\\ProgramowanieObiektowe\\ProgramowanieObiektowe.csproj",
+      "projectUniqueName": "C:\\Users\\Artur\\Desktop\\Programowanie-Obiektowe\\ProgramowanieObiektowe\\ProgramowanieObiektowe.csproj",
       "projectName": "ProgramowanieObiektowe",
-      "projectPath": "C:\\Users\\Artur\\source\\repos\\ProgramowanieObiektowe\\ProgramowanieObiektowe\\ProgramowanieObiektowe.csproj",
+      "projectPath": "C:\\Users\\Artur\\Desktop\\Programowanie-Obiektowe\\ProgramowanieObiektowe\\ProgramowanieObiektowe.csproj",
       "packagesPath": "C:\\Users\\Artur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Artur\\source\\repos\\ProgramowanieObiektowe\\ProgramowanieObiektowe\\obj\\",
+      "outputPath": "C:\\Users\\Artur\\Desktop\\Programowanie-Obiektowe\\ProgramowanieObiektowe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -25,6 +25,11 @@ public class Money : IEquatable<Money>
         }
         else new Money (value,currency)
     }
-}
+    
+    public static Money ParseValue(string stringValue, Currency currency)
+    {
+        decimal value = decimal.Parse(stringValue);
+        return new Money(stringValue, currency);
+    }
 
 
