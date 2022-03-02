@@ -1,0 +1,15 @@
+C:\Users\Artur\Desktop\Programowanie-Obiektowe\ProgramowanieObiektowe1\bin\Debug\net5.0\ProgramowanieObiektowe1.exe
+C:\Users\Artur\Desktop\Programowanie-Obiektowe\ProgramowanieObiektowe1\bin\Debug\net5.0\ProgramowanieObiektowe1.deps.json
+C:\Users\Artur\Desktop\Programowanie-Obiektowe\ProgramowanieObiektowe1\bin\Debug\net5.0\ProgramowanieObiektowe1.runtimeconfig.json
+C:\Users\Artur\Desktop\Programowanie-Obiektowe\ProgramowanieObiektowe1\bin\Debug\net5.0\ProgramowanieObiektowe1.runtimeconfig.dev.json
+C:\Users\Artur\Desktop\Programowanie-Obiektowe\ProgramowanieObiektowe1\bin\Debug\net5.0\ProgramowanieObiektowe1.dll
+C:\Users\Artur\Desktop\Programowanie-Obiektowe\ProgramowanieObiektowe1\bin\Debug\net5.0\ref\ProgramowanieObiektowe1.dll
+C:\Users\Artur\Desktop\Programowanie-Obiektowe\ProgramowanieObiektowe1\bin\Debug\net5.0\ProgramowanieObiektowe1.pdb
+C:\Users\Artur\Desktop\Programowanie-Obiektowe\ProgramowanieObiektowe1\obj\Debug\net5.0\ProgramowanieObiektowe1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\Desktop\Programowanie-Obiektowe\ProgramowanieObiektowe1\obj\Debug\net5.0\ProgramowanieObiektowe1.AssemblyInfoInputs.cache
+C:\Users\Artur\Desktop\Programowanie-Obiektowe\ProgramowanieObiektowe1\obj\Debug\net5.0\ProgramowanieObiektowe1.AssemblyInfo.cs
+C:\Users\Artur\Desktop\Programowanie-Obiektowe\ProgramowanieObiektowe1\obj\Debug\net5.0\ProgramowanieObiektowe1.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\Programowanie-Obiektowe\ProgramowanieObiektowe1\obj\Debug\net5.0\ProgramowanieObiektowe1.dll
+C:\Users\Artur\Desktop\Programowanie-Obiektowe\ProgramowanieObiektowe1\obj\Debug\net5.0\ref\ProgramowanieObiektowe1.dll
+C:\Users\Artur\Desktop\Programowanie-Obiektowe\ProgramowanieObiektowe1\obj\Debug\net5.0\ProgramowanieObiektowe1.pdb
+C:\Users\Artur\Desktop\Programowanie-Obiektowe\ProgramowanieObiektowe1\obj\Debug\net5.0\ProgramowanieObiektowe1.genruntimeconfig.cache

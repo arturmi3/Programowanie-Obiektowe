@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YsE3EguUTrnOqHw6EbPIkKdj66kWKmhAu9xdTiOLlLrxxfbo9K+nagJWYrrgq76s0dir1axaqN9Dp1Bat3AXyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Artur\\Desktop\\Programowanie-Obiektowe\\ProgramowanieObiektowe1\\ProgramowanieObiektowe1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artur\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
