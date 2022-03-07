@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Artur\\Desktop\\Programowanie-Obiektowe\\ProgramowanieObiektowe1\\ProgramowanieObiektowe1.csproj": {}
+    "C:\\Users\\Artur\\source\\repos\\ProgramowanieObiektowe\\Programowanie-Obiektowe\\ProgramowanieObiektowe1\\ProgramowanieObiektowe1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Artur\\Desktop\\Programowanie-Obiektowe\\ProgramowanieObiektowe1\\ProgramowanieObiektowe1.csproj": {
+    "C:\\Users\\Artur\\source\\repos\\ProgramowanieObiektowe\\Programowanie-Obiektowe\\ProgramowanieObiektowe1\\ProgramowanieObiektowe1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Artur\\Desktop\\Programowanie-Obiektowe\\ProgramowanieObiektowe1\\ProgramowanieObiektowe1.csproj",
+        "projectUniqueName": "C:\\Users\\Artur\\source\\repos\\ProgramowanieObiektowe\\Programowanie-Obiektowe\\ProgramowanieObiektowe1\\ProgramowanieObiektowe1.csproj",
         "projectName": "ProgramowanieObiektowe1",
-        "projectPath": "C:\\Users\\Artur\\Desktop\\Programowanie-Obiektowe\\ProgramowanieObiektowe1\\ProgramowanieObiektowe1.csproj",
+        "projectPath": "C:\\Users\\Artur\\source\\repos\\ProgramowanieObiektowe\\Programowanie-Obiektowe\\ProgramowanieObiektowe1\\ProgramowanieObiektowe1.csproj",
         "packagesPath": "C:\\Users\\Artur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Artur\\Desktop\\Programowanie-Obiektowe\\ProgramowanieObiektowe1\\obj\\",
+        "outputPath": "C:\\Users\\Artur\\source\\repos\\ProgramowanieObiektowe\\Programowanie-Obiektowe\\ProgramowanieObiektowe1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

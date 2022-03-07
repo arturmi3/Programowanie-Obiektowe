@@ -16,6 +16,10 @@ public class Money : IEquatable<Money>
         _value = value;
         _currency = currency;
     }
+    public override string ToString()
+    {
+        return $"{_value} {_currency}";
+    }
 
     public static Money OfWithException(decimal value, Currency currency)
     {
@@ -35,7 +39,9 @@ public class Money : IEquatable<Money>
 
     public bool Equals(Money? other)
     {
-        throw new NotImplementedException();
+        if (other == null) return false;
+        if (_currency != other.Currency) return false;
+        return (_value == other.Value);
     }
 
     public Currency Currency
@@ -125,11 +131,32 @@ public class Tank
     }
 
 }
+public static class MoneyExtension
+{
+    public static Money Percent(this Money money, decimal percent)
+    {
+        return Money.OfWithException((money.Value * percent) / 100m, money.Currency);
+    }
+    public static Money ToCurrency(this Money money, decimal factor, Currency curr)
+    {
+        return Money.OfWithException(money.Value * factor, curr);
+    }
+}
 internal class Program
 {
     static void Main(string[] args)
     {
         Console.WriteLine("Hello World!");
+        var m1 = Money.OfWithException(10, Currency.USD);
+        var m2 = Money.OfWithException(15, Currency.USD);
+        Console.WriteLine(m1);
+        Console.WriteLine(m1 > m2);
+        Console.WriteLine(m1 == m2);
+        Console.WriteLine(m1 != m2);
+        var m3 = m1.Percent(50);
+        Console.WriteLine(m3);
+        var m4 = m1.ToCurrency(4, Currency.PLN);
+        Console.WriteLine(m4);
     }
 }
 
