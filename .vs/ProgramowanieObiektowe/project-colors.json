@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb661fe1-c419-4ad5-8ac7-9fc95846f3dd": {
+      "ProjectGuid": "eb661fe1-c419-4ad5-8ac7-9fc95846f3dd",
+      "DisplayName": "ProgramowanieObiektowe",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "cd4e8688-3104-4c25-8632-3cf84af37546": {
+      "ProjectGuid": "cd4e8688-3104-4c25-8632-3cf84af37546",
+      "DisplayName": "ProgramowanieObiektowe1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
