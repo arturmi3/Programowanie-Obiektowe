@@ -1,4 +1,5 @@
 ﻿using System;
+using Zad_domowe_1;
 
 public enum Currency
 {
@@ -157,6 +158,11 @@ internal class Program
         Console.WriteLine(m3);
         var m4 = m1.ToCurrency(4, Currency.PLN);
         Console.WriteLine(m4);
+
+        var u1 = new Ułamek(10, 15);
+        var u2 = new Ułamek(3, 7);
+        Console.WriteLine(u1 * u2);
+        Console.WriteLine(u1 * u2 + u2 );
     }
 }
 
